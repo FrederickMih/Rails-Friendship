@@ -1,13 +1,13 @@
 # Friends List App 
 
-> This app allows users sign_in users to add, edit, delete, update a new freind in his 
+> This app allows sign_in users to add, edit, delete, update a new freind in his 
 > profile.
 
-![screenshot](./assets/images/sign_up.png)
-![screenshot](./assets/images/log_in.png)
-![screenshot](./assets/images/add_friends.png)
-![screenshot](./assets/images/show_friends2.png)
-![screenshot](./assets/images/edit_friends.png)
+![screenshot](./app/assets/images/sign_up.png)
+![screenshot](./app/assets/images/log_in.png)
+![screenshot](./app/assets/images/add_friends.png)
+![screenshot](./app/assets/images/show_friends2.png)
+![screenshot](./app/assets/images/edit_friends.png)
 ## Built With
 
 - Ruby
